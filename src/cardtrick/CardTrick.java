@@ -34,6 +34,8 @@ public class CardTrick {
         
     }
       //step 2: take input guess the card 2 spades find in array - print your card is found
+    
+    // do change in remote repository. hard coded card details card number =2,hearts to find in array
     }
     
 }
