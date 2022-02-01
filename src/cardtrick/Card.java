@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package cardtrick;
 
 /**
@@ -11,7 +6,7 @@ package cardtrick;
  */
 public class Card 
 {
-    private int numbers; //encapsulate it getters and setters
+    private int numbers;
     private String suit;
     
     public static final String[] SUITS = {"diamonds","spades","clubs","hearts"};
