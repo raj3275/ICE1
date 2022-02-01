@@ -7,7 +7,7 @@ package cardtrick;
 
 /**
  *
- * @author sivagamasrinivasan
+ * @author rajpa
  */
 public class Card 
 {

@@ -12,7 +12,7 @@ package cardtrick;
  * 1 clubs
  * ... 7 cards
  *
- * @author sivagamasrinivasan
+ * @author rajpa
  */
 public class CardTrick {
 
