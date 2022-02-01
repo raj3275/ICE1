@@ -1,3 +1,7 @@
+/*
+Student Name: Raj Patel
+Student Number: 991637898
+*/
 package cardtrick;
 
 /**
