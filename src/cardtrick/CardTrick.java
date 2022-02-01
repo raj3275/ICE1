@@ -50,4 +50,23 @@ public class CardTrick {
             System.out.println("Your Card is not found!");
       }
     
+    Card luckyCard = new Card();
+    luckyCard.setNumbers(3);
+    luckyCard.setSuit("spades");
+    
+    int foundlc = 0;
+        for(int i=0;i<magicHand.length;i++)
+        {
+            if (luckyCard.getNumbers()==magicHand[i].getNumbers()){
+                if (luckyCard.getSuit().equals(magicHand[i].getSuit())){
+                    foundlc = 1;
+                }
+            }
+        }
+        if(foundlc==1)
+            System.out.println("Lucky Card is found!");
+        else
+            System.out.println("Lucky Card is not found!");
+      }
+    
 }
