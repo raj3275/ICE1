@@ -48,7 +48,7 @@ public class CardTrick {
             System.out.println("Your Card is found!");
         else
             System.out.println("Your Card is not found!");
-      }
+      
     
     Card luckyCard = new Card();
     luckyCard.setNumbers(3);
